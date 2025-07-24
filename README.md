@@ -4,8 +4,9 @@
 
 1. Prompt Monitoring: Prompts are scanned using moderation filters that detect hate speech, threats, or other harmful content.
 2. Logging: If a prompt violates policies, it can be logged securely for review. This log may include:
-3. The prompt text
-4. Timestamp
+
+The prompt text
+Timestamp
 User/session ID (if applicable)
 Action taken (e.g., blocked, flagged)
 
